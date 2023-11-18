@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		ED5265D22B088F0700724C7D /* racing game */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "racing game"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED5265D52B088F0700724C7D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		ED5265DC2B08935200724C7D /* defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defs.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				ED5265D52B088F0700724C7D /* main.c */,
+				ED5265DC2B08935200724C7D /* defs.h */,
 			);
 			path = "racing game";
 			sourceTree = "<group>";
