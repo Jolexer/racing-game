@@ -1,14 +1,10 @@
-//
-//  main.c
-//  racing game
-//
-//  Created by Jorik de boer on 18/11/2023.
-//
+//racing game
+//jorik de boer (Jolexer)
+//18-11-2023
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main(void) {
+    printf("hello world!\n");
     return 0;
 }
